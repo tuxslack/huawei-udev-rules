@@ -1,6 +1,6 @@
 # huawei-udev-rules
 
-Adiciona suporte a modem USB da Huawei no NetworkManager.
+Suporte a modem USB da Huawei para o programa NetworkManager.
 
 https://www.huawei.com/br/
 
